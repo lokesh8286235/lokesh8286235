@@ -93,12 +93,6 @@ Event-driven processing platform with 99.9% uptime and full observability stack.
 
 ---
 
-## 📈 GitHub Stats
-
-![Lokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokesh8286235&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh8286235&layout=compact&theme=dark&hide_border=true)
-
 ---
 
 ## 🎓 Education & Certifications

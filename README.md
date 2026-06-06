@@ -1,4 +1,4 @@
-# Hi, I'm Lokesh Alla 👋
+# Hi, I'm Alla Naga Lokesh Sai 👋
 
 ### AI Engineer · Software Engineer · CRM Developer
 **Building AI systems that ship to production and actually work.**

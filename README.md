@@ -3,13 +3,17 @@
 ### AI Engineer · Software Engineer · CRM Developer
 **Building AI systems that ship to production and actually work.**
 
+
+Built production systems serving 200K+ users, processing 50M+ records/day,
+and powering AI workflows handling 1,000+ queries/day.
+
 ---
 
 ## 🚀 What I Build
 
 ```python
 lokesh = {
-    "currently": "Open to full-time AI Engineering & Software Engineering roles",
+    "currently": "Building production AI systems and agentic workflows",
     "flagship_project": "RAG pipeline → 1,000+ queries/day · 91% accuracy · shipped in 3 weeks",
     "stack": ["Claude API", "Python", "LangChain", "Java", "React", "AWS", "PostgreSQL"],
     "certified": "Salesforce ADM-201",
@@ -32,6 +36,14 @@ lokesh = {
 | Deployment Time | **4 hrs → 20 min** — Terraform IaC |
 
 ---
+## Lessons From Building AI Systems
+
+- Retrieval quality matters more than model quality
+- Evaluation beats intuition
+- AI products fail at workflows, not prompts
+- Human trust is harder than model accuracy
+
+---
 
 ## 🔨 Featured Projects
 
@@ -43,12 +55,14 @@ Production RAG system that automates enterprise knowledge retrieval. Zero to pro
 ### ⚡ [Distributed Data Pipeline](https://github.com/lokesh8286235/Distributed-Data-Pipeline)
 > C++17 · lock-free ring buffers · work-stealing queues · microsecond optimization
 
-Multi-threaded C++ pipeline with epoll/io_uring, custom allocators, and cache-aware design.
+Built a lock-free distributed pipeline that achieved
+3.2x throughput improvement and reduced L3 cache misses by 35%.
 
 ### 🔄 [High-Throughput Event Processing System](https://github.com/lokesh8286235/High-Throughput-Event-Processing-System)
 > Python · AWS Lambda · SQS · DynamoDB · dead-letter queues · Prometheus
 
-Event-driven processing platform with 99.9% uptime and full observability stack.
+Processed millions of events with automatic recovery,
+dead-letter handling, and 99.9% uptime.
 
 ---
 

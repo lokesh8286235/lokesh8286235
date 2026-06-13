@@ -132,16 +132,6 @@ AI-powered root cause analysis. Zero manual triage. Evidence-backed remediation.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=lokesh8286235&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh8286235&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lokesh8286235&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 

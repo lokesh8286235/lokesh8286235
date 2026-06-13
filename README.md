@@ -64,8 +64,6 @@ lokesh = {
 }
 ```
 
----
-
 ## 🔨 Featured Projects
 
 ### 🔮 AETHER — Incident Intelligence Platform
@@ -133,7 +131,6 @@ AI-powered root cause analysis. Zero manual triage. Evidence-backed remediation.
 ---
 
 
----
 
 ## 🎓 Education & Certifications
 

@@ -76,7 +76,7 @@ lokesh = {
 
 ## 🔨 Featured Projects
 
-### 🔮 [AETHER — Incident Intelligence Platform](https://github.com/lokesh8286235/Aether-Incident-Intelligence-Platform)
+### 🔮 [AETHER — Incident Intelligence Platform](https://github.com/lokesh8286235/incident-intelligence-platform)
 > `Python` `FastAPI` `LangChain` `pgvector` `React` `OpenTelemetry` `Prometheus` `AWS`
 
 AI-powered RCA platform correlating telemetry → evidence chain → root cause → remediation. **94.2% Top-1 Accuracy.**

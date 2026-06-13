@@ -165,3 +165,5 @@ AI-powered root cause analysis. Zero manual triage. Evidence-backed remediation.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+
+---  Alla Naga Lokesh Sai ---

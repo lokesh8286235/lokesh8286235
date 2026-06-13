@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lokesh%20Alla&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%C2%B7%20Software%20Engineer%20%C2%B7%20Building%20AI%20that%20ships&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text= Naga Lokesh Sai%20Alla&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%C2%B7%20Software%20Engineer%20%C2%B7%20Building%20AI%20that%20ships&descAlignY=55&descSize=16" width="100%"/>
 <a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+LLM+Systems+%7C+RAG+Pipelines;AETHER+%E2%80%94+95.8%25+RCA+Accuracy+in+Production;Retrieval+quality+%3E+model+quality;Building+AI+that+ships+to+production" alt="Typing SVG" />
 </a>

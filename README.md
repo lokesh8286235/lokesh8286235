@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lokesh%20Alla&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%C2%B7%20AI%20Engineer%20%C2%B7%20Low-Latency%20Systems%20%C2%B7%2094.2%25%20production%20accuracy&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Data+Analyst+%7CAI+Engineer+%7C+LLM+Systems+%7C+RAG+Pipelines;AETHER+%E2%80%94+94.2%25+Top-1+Diagnostic+Accuracy;C%2B%2B+Systems+%7C+3.2%C3%97+Throughput+%7C+Lock-Free+Pipelines;Retrieval+quality+%3E+model+quality;Building+AI+that+ships+to+production)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines= Data+Analyst+%7CAI+Engineer+%7C+LLM+Systems+%7C+RAG+Pipelines;AETHER+%E2%80%94+94.2%25+Top-1+Diagnostic+Accuracy;C%2B%2B+Systems+%7C+3.2%C3%97+Throughput+%7C+Lock-Free+Pipelines;Retrieval+quality+%3E+model+quality;Building+AI+that+ships+to+production)](https://git.io/typing-svg)
 
 <br/>
 

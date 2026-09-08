@@ -4,7 +4,7 @@
 
 ### AI Engineer · Software Engineer · ML Systems · Distributed Systems
 
-I build **AI and software systems with an emphasis on retrieval, evaluation, performance, reliability, and production engineering**.
+Building **production-oriented AI and software systems** with a focus on retrieval quality, evaluation, performance, reliability, and operational engineering.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lokesh8286235)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/naga-lokesh-sai-alla-538242251)
@@ -14,49 +14,59 @@ I build **AI and software systems with an emphasis on retrieval, evaluation, per
 
 ---
 
-## Engineering Focus
+## What I Build
 
-| Area | What I work on |
+| Domain | Focus |
 |---|---|
-| **AI / LLM Systems** | RAG, retrieval quality, agents, grounded generation, evaluation |
-| **ML Systems** | Inference optimization, graph compilation concepts, profiling |
+| **AI / LLM Systems** | RAG, retrieval, agents, grounded generation, evaluation, observability |
+| **ML Systems** | Inference optimization, graph transformations, profiling, performance engineering |
 | **Backend** | Python, FastAPI, Java, REST APIs, PostgreSQL |
-| **Distributed Systems** | Concurrency, queues, event-driven processing, failure recovery |
-| **Cloud / Infra** | AWS, Docker, Kubernetes, Terraform, observability |
+| **Distributed Systems** | Concurrency, queues, event-driven processing, retries, failure recovery |
+| **Cloud / Infrastructure** | AWS, Docker, Kubernetes, Terraform, CI/CD, monitoring |
 | **Frontend** | React, TypeScript, Next.js |
 
-## Selected Projects
+## Featured Engineering Work
 
-### 🤖 [Enterprise RAG Automation Platform](https://github.com/lokesh8286235/enterprise-rag-automation-platform)
-A retrieval-augmented generation reference implementation with source code, tests, CI, evaluation components, and a deliberate separation between retrieval and generation.
+### 🤖 Enterprise RAG Automation Platform
+**Production-oriented RAG system** focused on retrieval quality, evaluation, and observability.
 
 **Stack:** Python · FastAPI · LangChain · Claude API · PostgreSQL/pgvector · AWS · Docker · Terraform
 
-**Reported project result:** 78% → 91% answer accuracy, with retrieval precision measured separately. The repository is the source of truth for the implementation.
+**Measured project result:** 78% → **91% answer accuracy**; retrieval precision tracked separately. See the repository for the implementation and evaluation workflow.
 
-### ⚡ [Distributed Data Pipeline](https://github.com/lokesh8286235/Distributed-Data-Pipeline)
-A focused C++17 systems project exploring concurrent pipeline design, lock-free communication, work stealing, testing, and performance measurement.
+→ [View repository](https://github.com/lokesh8286235/enterprise-rag-automation-platform)
+
+### ⚡ Distributed Data Pipeline
+C++17 concurrency and performance-engineering project exploring lock-free communication, work stealing, memory behavior, stress testing, and benchmark-driven optimization.
 
 **Stack:** C++17 · CMake · GoogleTest · Docker · GitHub Actions · perf · Valgrind
 
-**Reported project result:** 40% throughput improvement in the documented benchmark. The current repository is intentionally compact; the source tree defines the implementation boundary.
+**Measured project result:** **40% throughput improvement** in the documented benchmark, with memory-leak validation.
 
-### 🔄 [High-Throughput Event Processing System](https://github.com/lokesh8286235/High-Throughput-Event-Processing-System)
-Serverless asynchronous event-processing reference architecture covering buffering, retries, dead-letter queues, persistence, and observability.
+→ [View repository](https://github.com/lokesh8286235/Distributed-Data-Pipeline)
+
+### 🔄 High-Throughput Event Processing System
+Fault-tolerant asynchronous event-processing architecture covering buffering, retries, dead-letter queues, persistence, idempotency considerations, and operational visibility.
 
 **Stack:** Python · AWS Lambda · SQS · DynamoDB · Prometheus · Grafana
 
-**Reported project result:** 50,000+ events/day and 99.9% availability in the project's stated workload. Production-readiness considerations are documented explicitly.
+**Documented workload:** **50,000+ events/day** and **99.9% availability** for the project scenario. Claims are explicitly labeled as project results rather than audited production SLOs.
 
-### 🔮 [AETHER — Incident Intelligence Platform](https://github.com/lokesh8286235/incident-intelligence-platform)
-An **architecture and evaluation concept** for evidence-driven incident investigation using telemetry correlation, retrieval, and LLM synthesis.
+→ [View repository](https://github.com/lokesh8286235/High-Throughput-Event-Processing-System)
+
+### 🔮 AETHER — AI Incident Intelligence Platform
+Evidence-driven incident investigation concept combining telemetry correlation, retrieval, and LLM synthesis to connect **symptoms → evidence → root-cause hypothesis → remediation**.
 
 **Stack:** Python · FastAPI · LangChain · Claude API · PostgreSQL/pgvector · React · OpenTelemetry · Prometheus · AWS
 
-The repository currently emphasizes system design, evaluation framing, and safety principles rather than presenting itself as a complete production implementation.
+**Reported evaluation:** 840-case benchmark with **94.2% Top-1 diagnostic accuracy**, **95.4% precision**, **91.8% recall**, and **2.18% false-positive rate**. The repository clearly distinguishes evaluation results from independently audited production benchmarks.
 
-### 🎨 [Portfolio](https://github.com/lokesh8286235/Portfolio)
-Personal engineering portfolio and AI application work, with deployment-oriented configuration and project presentation.
+→ [View repository](https://github.com/lokesh8286235/incident-intelligence-platform)
+
+### 🎨 Portfolio
+Personal engineering portfolio showcasing AI applications, systems work, project case studies, and deployment-oriented development.
+
+→ [View repository](https://github.com/lokesh8286235/Portfolio)
 
 ---
 
@@ -72,17 +82,13 @@ Personal engineering portfolio and AI application work, with deployment-oriented
 
 I care about systems that can be **read, run, tested, measured, observed, and improved**.
 
----
-
-## What I’m Building Toward
+## Building Toward
 
 - Reliable agentic and retrieval-based AI systems
-- LLM evaluation and observability
+- LLM evaluation, reliability, and observability
 - ML inference and systems optimization
 - Distributed and event-driven backend systems
 - Production engineering across APIs, infrastructure, and monitoring
-
----
 
 ## Education
 

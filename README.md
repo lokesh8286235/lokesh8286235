@@ -4,7 +4,7 @@
 
 ### AI Engineer · Software Engineer · ML Systems · Distributed Systems
 
-I build production-oriented AI and software systems across **LLM applications, retrieval, inference optimization, backend engineering, and high-throughput infrastructure**.
+I build **AI and software systems with an emphasis on retrieval, evaluation, performance, reliability, and production engineering**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lokesh8286235)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/naga-lokesh-sai-alla-538242251)
@@ -14,70 +14,73 @@ I build production-oriented AI and software systems across **LLM applications, r
 
 ---
 
-## What I Build
+## Engineering Focus
 
-| Area | Focus |
+| Area | What I work on |
 |---|---|
-| **AI / LLM Systems** | RAG, retrieval evaluation, agents, evidence-grounded generation |
-| **ML Systems** | Inference optimization, graph transformation, profiling, latency/throughput |
+| **AI / LLM Systems** | RAG, retrieval quality, agents, grounded generation, evaluation |
+| **ML Systems** | Inference optimization, graph compilation concepts, profiling |
 | **Backend** | Python, FastAPI, Java, REST APIs, PostgreSQL |
-| **Distributed Systems** | Concurrency, event-driven architectures, queues, fault tolerance |
+| **Distributed Systems** | Concurrency, queues, event-driven processing, failure recovery |
 | **Cloud / Infra** | AWS, Docker, Kubernetes, Terraform, observability |
 | **Frontend** | React, TypeScript, Next.js |
 
-## Featured Work
-
-### 🔮 [AETHER — Incident Intelligence Platform](https://github.com/lokesh8286235/incident-intelligence-platform)
-AI-assisted incident investigation that correlates telemetry and operational evidence to produce root-cause hypotheses and remediation recommendations.
-
-**Stack:** Python · FastAPI · LangChain · Claude API · PostgreSQL/pgvector · React · OpenTelemetry · Prometheus · AWS
-
-**Reported evaluation:** 94.2% Top-1 diagnostic accuracy on an 840-case benchmark, with 95.4% precision and 91.8% recall. See the repository for the evaluation methodology and implementation details. 
+## Selected Projects
 
 ### 🤖 [Enterprise RAG Automation Platform](https://github.com/lokesh8286235/enterprise-rag-automation-platform)
-Production-style retrieval and generation pipeline for enterprise knowledge workflows.
+A retrieval-augmented generation reference implementation with source code, tests, CI, evaluation components, and a deliberate separation between retrieval and generation.
 
 **Stack:** Python · FastAPI · LangChain · Claude API · PostgreSQL/pgvector · AWS · Docker · Terraform
 
-**Reported results:** 78% → 91% answer accuracy, 1,000+ queries/day, and 40% lower manual lookup effort. The repository documents the retrieval, evaluation, and observability approach.
+**Reported project result:** 78% → 91% answer accuracy, with retrieval precision measured separately. The repository is the source of truth for the implementation.
 
 ### ⚡ [Distributed Data Pipeline](https://github.com/lokesh8286235/Distributed-Data-Pipeline)
-C++17 concurrency project focused on lock-free queues, work stealing, memory behavior, and performance profiling.
+A focused C++17 systems project exploring concurrent pipeline design, lock-free communication, work stealing, testing, and performance measurement.
 
-**Stack:** C++17 · Python · CMake · GoogleTest · Docker · GitHub Actions · perf · Valgrind
+**Stack:** C++17 · CMake · GoogleTest · Docker · GitHub Actions · perf · Valgrind
 
-Highlights include lock-free ring buffers, work-stealing scheduling, stress testing, and benchmark-driven optimization.
+**Reported project result:** 40% throughput improvement in the documented benchmark. The current repository is intentionally compact; the source tree defines the implementation boundary.
 
 ### 🔄 [High-Throughput Event Processing System](https://github.com/lokesh8286235/High-Throughput-Event-Processing-System)
-Fault-tolerant event processing architecture using asynchronous queues, serverless workers, retries, and dead-letter recovery.
+Serverless asynchronous event-processing reference architecture covering buffering, retries, dead-letter queues, persistence, and observability.
 
 **Stack:** Python · AWS Lambda · SQS · DynamoDB · Prometheus · Grafana
 
-The repository focuses on reliability patterns: decoupling, retry behavior, DLQs, observability, and recovery workflows.
+**Reported project result:** 50,000+ events/day and 99.9% availability in the project's stated workload. Production-readiness considerations are documented explicitly.
+
+### 🔮 [AETHER — Incident Intelligence Platform](https://github.com/lokesh8286235/incident-intelligence-platform)
+An **architecture and evaluation concept** for evidence-driven incident investigation using telemetry correlation, retrieval, and LLM synthesis.
+
+**Stack:** Python · FastAPI · LangChain · Claude API · PostgreSQL/pgvector · React · OpenTelemetry · Prometheus · AWS
+
+The repository currently emphasizes system design, evaluation framing, and safety principles rather than presenting itself as a complete production implementation.
+
+### 🎨 [Portfolio](https://github.com/lokesh8286235/Portfolio)
+Personal engineering portfolio and AI application work, with deployment-oriented configuration and project presentation.
 
 ---
 
-## Engineering Philosophy
+## Engineering Principles
 
 > **Measure before optimizing.**
 >
-> **Evaluate before scaling.**
+> **Separate retrieval failures from generation failures.**
 >
-> **Design failure paths before production.**
+> **Design failure paths before the happy path.**
 >
-> **Prefer evidence over impressive demos.**
+> **Prefer reproducible evidence over impressive claims.**
 
-I care about the full path from idea to a system that can be **tested, profiled, observed, deployed, and explained**.
+I care about systems that can be **read, run, tested, measured, observed, and improved**.
 
 ---
 
-## Currently Focused On
+## What I’m Building Toward
 
-- Agentic and retrieval-based AI systems
-- Evaluation and reliability for LLM applications
+- Reliable agentic and retrieval-based AI systems
+- LLM evaluation and observability
 - ML inference and systems optimization
-- Distributed, event-driven backend systems
-- Production observability and platform engineering
+- Distributed and event-driven backend systems
+- Production engineering across APIs, infrastructure, and monitoring
 
 ---
 
@@ -92,7 +95,7 @@ I care about the full path from idea to a system that can be **tested, profiled,
 
 <div align="center">
 
-### Open to AI Engineering · Software Engineering · ML Systems · Infrastructure
+### AI Engineering · Software Engineering · ML Systems · Infrastructure
 
 [GitHub](https://github.com/lokesh8286235) · [LinkedIn](https://linkedin.com/in/naga-lokesh-sai-alla-538242251) · [Portfolio](https://portfolio-r7n2.vercel.app)
 

@@ -1,76 +1,89 @@
-<div align="center">
-
 # Naga Lokesh Sai Alla
 
 ### AI Engineer · Software Engineer · ML Systems · Distributed Systems
 
-Building **production-oriented AI and software systems** with a focus on retrieval quality, evaluation, performance, reliability, and operational engineering.
+I build **production-oriented AI and software systems** with an emphasis on retrieval quality, evaluation, inference performance, reliability, and developer infrastructure.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lokesh8286235)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/naga-lokesh-sai-alla-538242251)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-r7n2.vercel.app)
-
-</div>
+[LinkedIn](https://linkedin.com/in/naga-lokesh-sai-alla-538242251) · [Portfolio](https://portfolio-r7n2.vercel.app) · [GitHub](https://github.com/lokesh8286235)
 
 ---
 
-## What I Build
+## Recruiter 30-Second View
 
-| Domain | Focus |
+- **AI / LLM:** RAG, retrieval, LLM evaluation, Claude API, LangChain
+- **ML Systems:** PyTorch, ONNX, graph compilation, inference optimization, C++
+- **Backend:** Python, FastAPI, Java, REST APIs, PostgreSQL
+- **Distributed / Cloud:** concurrency, event-driven systems, AWS, Docker, Kubernetes, Terraform
+- **Frontend:** React, TypeScript, Next.js
+- **Engineering mindset:** benchmark first, preserve evidence, design failure paths, automate the feedback loop
+
+## Selected Engineering Evidence
+
+| Work | Evidence |
 |---|---|
-| **AI / LLM Systems** | RAG, retrieval, agents, grounded generation, evaluation, observability |
-| **ML Systems** | Inference optimization, graph transformations, profiling, performance engineering |
-| **Backend** | Python, FastAPI, Java, REST APIs, PostgreSQL |
-| **Distributed Systems** | Concurrency, queues, event-driven processing, retries, failure recovery |
-| **Cloud / Infrastructure** | AWS, Docker, Kubernetes, Terraform, CI/CD, monitoring |
-| **Frontend** | React, TypeScript, Next.js |
+| **ML inference optimization** | Processed **500K+ images**, improving inference throughput **40%** and reducing latency **35%**. |
+| **RAG + LLM evaluation** | Indexed **10K+ documents** and supported **1,000+ queries/day**; answer accuracy improved **78% → 91%** and retrieval precision **72% → 89%**. |
+| **C++ / ML performance** | Used multithreading, profiling, cache-aware design, and hardware-aware optimization to reach **3.2× throughput**, reduce L3 cache misses **35%**, and maintain **99.9% availability**. |
 
-## Featured Engineering Work
-
-### 🤖 Enterprise RAG Automation Platform
-**Production-oriented RAG system** focused on retrieval quality, evaluation, and observability.
-
-**Stack:** Python · FastAPI · LangChain · Claude API · PostgreSQL/pgvector · AWS · Docker · Terraform
-
-**Measured project result:** 78% → **91% answer accuracy**; retrieval precision tracked separately. See the repository for the implementation and evaluation workflow.
-
-→ [View repository](https://github.com/lokesh8286235/enterprise-rag-automation-platform)
-
-### ⚡ Distributed Data Pipeline
-C++17 concurrency and performance-engineering project exploring lock-free communication, work stealing, memory behavior, stress testing, and benchmark-driven optimization.
-
-**Stack:** C++17 · CMake · GoogleTest · Docker · GitHub Actions · perf · Valgrind
-
-**Measured project result:** **40% throughput improvement** in the documented benchmark, with memory-leak validation.
-
-→ [View repository](https://github.com/lokesh8286235/Distributed-Data-Pipeline)
-
-### 🔄 High-Throughput Event Processing System
-Fault-tolerant asynchronous event-processing architecture covering buffering, retries, dead-letter queues, persistence, idempotency considerations, and operational visibility.
-
-**Stack:** Python · AWS Lambda · SQS · DynamoDB · Prometheus · Grafana
-
-**Documented workload:** **50,000+ events/day** and **99.9% availability** for the project scenario. Claims are explicitly labeled as project results rather than audited production SLOs.
-
-→ [View repository](https://github.com/lokesh8286235/High-Throughput-Event-Processing-System)
-
-### 🔮 AETHER — AI Incident Intelligence Platform
-Evidence-driven incident investigation concept combining telemetry correlation, retrieval, and LLM synthesis to connect **symptoms → evidence → root-cause hypothesis → remediation**.
-
-**Stack:** Python · FastAPI · LangChain · Claude API · PostgreSQL/pgvector · React · OpenTelemetry · Prometheus · AWS
-
-**Reported evaluation:** 840-case benchmark with **94.2% Top-1 diagnostic accuracy**, **95.4% precision**, **91.8% recall**, and **2.18% false-positive rate**. The repository clearly distinguishes evaluation results from independently audited production benchmarks.
-
-→ [View repository](https://github.com/lokesh8286235/incident-intelligence-platform)
-
-### 🎨 Portfolio
-Personal engineering portfolio showcasing AI applications, systems work, project case studies, and deployment-oriented development.
-
-→ [View repository](https://github.com/lokesh8286235/Portfolio)
+These figures come from my current professional profile; project READMEs distinguish measured project results from production claims.
 
 ---
 
-## Engineering Principles
+## Start Here
+
+### 01 · LinkedIn Optimizer
+**Evidence-first career intelligence for engineers.**
+
+A deterministic analysis and evaluation system that scores profile quality, role alignment, evidence, ownership, technical depth, business impact, and seniority—and generates **truth-constrained rewrite candidates**.
+
+**Engineering signal:** anti-gaming calibration, typed contracts, regression fixtures, claim-preservation checks, CLI/API surfaces, optional semantic and LLM layers.
+
+→ [Repository](https://github.com/lokesh8286235/Lokesh)
+
+### 02 · PET — Personal Engineering Toolkit
+**AI-native engineering intelligence for software repositories.**
+
+Analyzes repository structure and engineering signals to surface maintainability, testing, documentation, reliability, and security-oriented findings while keeping source evidence visible.
+
+**Engineering signal:** bounded file traversal, sensitive-file exclusion, symlink protection, deterministic analysis, provider isolation, API + web architecture.
+
+→ [Repository](https://github.com/lokesh8286235/pet-engineering-intelligence)
+
+### 03 · AURA — Autonomous Engineering Intelligence
+**Repository intelligence for architecture, dependencies, and engineering health.**
+
+A FastAPI + Next.js system that turns a repository into a queryable engineering model with deterministic analysis and a provider-agnostic intelligence layer.
+
+**Engineering signal:** typed API contracts, bounded ingestion, dependency extraction, explainable dimensions, local provider isolation, CI-backed development.
+
+→ [Repository](https://github.com/lokesh8286235/aura-engineering-intelligence)
+
+### 04 · Enterprise RAG Automation Platform
+**Retrieval-augmented generation with evaluation and observability.**
+
+Python · FastAPI · LangChain · Claude API · PostgreSQL/pgvector · AWS
+
+→ [Repository](https://github.com/lokesh8286235/enterprise-rag-automation-platform)
+
+---
+
+## How I Engineer
+
+```text
+Problem
+  ↓
+Define measurable behavior
+  ↓
+Build the deterministic baseline
+  ↓
+Instrument + evaluate
+  ↓
+Add AI only where it improves the decision
+  ↓
+Test failure modes and adversarial cases
+  ↓
+Ship with observable, reproducible evidence
+```
 
 > **Measure before optimizing.**
 >
@@ -82,27 +95,24 @@ Personal engineering portfolio showcasing AI applications, systems work, project
 
 I care about systems that can be **read, run, tested, measured, observed, and improved**.
 
-## Building Toward
+---
 
-- Reliable agentic and retrieval-based AI systems
-- LLM evaluation, reliability, and observability
-- ML inference and systems optimization
-- Distributed and event-driven backend systems
-- Production engineering across APIs, infrastructure, and monitoring
+## Technical Focus
+
+**AI:** RAG · LLM evaluation · retrieval · agents · grounded generation · embeddings  
+**ML Systems:** PyTorch · ONNX · graph transformations · quantization · inference optimization · C++  
+**Backend:** Python · FastAPI · Java · Spring Boot · REST · PostgreSQL · SQL  
+**Distributed Systems:** Kafka · concurrency · queues · retries · failure recovery · event-driven processing  
+**Cloud / Platform:** AWS · Docker · Kubernetes · Terraform · CI/CD · Prometheus  
+**Frontend:** React · TypeScript · Next.js
 
 ## Education
 
-**M.S. Computer Science — Villanova University**  
-**B.Tech. Computer Science — Veltech University**
+**M.S. Computer Science — Villanova University** · December 2025  
+**B.E. Computer Science — Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology**
 
 **Certification:** Salesforce Certified Administrator (ADM-201)
 
----
+## Contact
 
-<div align="center">
-
-### AI Engineering · Software Engineering · ML Systems · Infrastructure
-
-[GitHub](https://github.com/lokesh8286235) · [LinkedIn](https://linkedin.com/in/naga-lokesh-sai-alla-538242251) · [Portfolio](https://portfolio-r7n2.vercel.app)
-
-</div>
+[LinkedIn](https://linkedin.com/in/naga-lokesh-sai-alla-538242251) · [Portfolio](https://portfolio-r7n2.vercel.app) · [GitHub](https://github.com/lokesh8286235)

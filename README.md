@@ -4,127 +4,138 @@
 
 I build AI systems where **retrieval quality, latency, scale, and reliability** matter.
 
-My strongest work is at the intersection of:
-
-- **RAG, retrieval & LLM evaluation**
-- **ML inference & performance engineering**
-- **Distributed backend systems**
-- **AI developer infrastructure**
-
-[LinkedIn](https://linkedin.com/in/naga-lokesh-sai-alla-538242251) · [Portfolio](https://portfolio-r7n2.vercel.app) · [GitHub](https://github.com/lokesh8286235)
+My strongest work sits at the intersection of **production AI, ML systems, and backend infrastructure**.
 
 ---
 
-## Engineering Evidence
+## ENGINEERING EVIDENCE
 
-### ML inference
+### ML Inference
 
-**500K+ images → 40% higher throughput → 35% lower latency**
+**500K+ images**  
+→ **40% higher inference throughput**  
+→ **35% lower latency**
 
-Graph transformations, operator fusion, quantization, profiling, and hardware-aware optimization.
+Graph transformations · operator fusion · quantization · profiling
 
 ### Production RAG
 
-**10K+ documents → 1,000+ queries/day → 78% → 91% accuracy**
+**10K+ documents**  
+→ **1,000+ queries/day**  
+→ **78% → 91% answer accuracy**  
+→ **72% → 89% retrieval precision**
 
-Retrieval evaluation and observability; retrieval precision improved **72% → 89%**.
+Retrieval evaluation · vector search · observability · production reliability
 
-### C++ systems
+### C++ Systems
 
-**3.2× throughput → 35% fewer L3 cache misses → 99.9% availability**
+**3.2× throughput**  
+→ **35% fewer L3 cache misses**  
+→ **99.9% availability**
 
-Multithreading, profiling, and cache-aware optimization.
+Multithreading · profiling · cache-aware optimization
 
-> Professional engineering results above are presented as evidence of prior work. Repositories below contain independently inspectable implementations and evaluations.
+> Professional results above represent prior engineering work.  
+> The repositories below contain independently inspectable implementations.
 
 ---
 
-## Selected Systems
+# SELECTED SYSTEMS
 
-### 01 · LinkedIn Optimizer
+## 01 — Enterprise RAG Automation Platform
 
-**AI evaluation + trust-constrained career intelligence.**
+**Production-oriented retrieval infrastructure.**
 
-A deterministic scoring and rewriting system that treats profile optimization as an evidence problem: calibrated signals, anti-gaming tests, role alignment, claim preservation, and explicit missing-evidence slots.
+**Python · LangChain · Claude · FastAPI · PostgreSQL/pgvector · AWS · Kubernetes**
 
-**Proof:** deterministic baseline · regression fixtures · adversarial calibration · CLI · API · tests
-
-→ [Repository](https://github.com/lokesh8286235/Lokesh)
-
-### 02 · PET
-
-**Safe repository-analysis infrastructure.**
-
-A bounded analysis layer for extracting engineering signals from source trees while handling resource limits, binary/invalid content, sensitive files, symlinks, and provider isolation.
-
-**Proof:** implemented safety boundaries · typed API · deterministic findings · failure-mode testing · Docker
-
-→ [Repository](https://github.com/lokesh8286235/pet-engineering-intelligence)
-
-### 03 · AURA
-
-**Architecture intelligence from repository structure.**
-
-Reconstructs architecture and engineering-health signals from languages, imports, dependencies, tests, documentation, and configuration—with evidence attached to findings.
-
-**Proof:** multi-language inventory · dependency extraction · explainable dimensions · bounded ingestion · typed API
-
-→ [Repository](https://github.com/lokesh8286235/aura-engineering-intelligence)
-
-### 04 · Enterprise RAG Automation Platform
-
-**Production-oriented retrieval pipeline.**
-
-RAG infrastructure using Python, LangChain, Claude, FastAPI, PostgreSQL/pgvector, AWS, and Kubernetes.
+Retrieval → ranking → generation → evaluation → observability.
 
 → [Repository](https://github.com/lokesh8286235/enterprise-rag-automation-platform)
 
 ---
 
-## How I Build
+## 02 — LinkedIn Optimizer
+
+**Evidence-first career intelligence.**
+
+A trust-constrained evaluation and rewriting system designed to improve professional representation **without manufacturing qualifications**.
+
+**Deterministic scoring · calibration · role alignment · claim preservation · adversarial testing · versioned evaluation**
+
+→ [Repository](https://github.com/lokesh8286235/Lokesh)
+
+---
+
+## 03 — PET
+
+**Repository analysis infrastructure for engineering teams.**
+
+A bounded analysis layer that establishes trustworthy repository signals before AI reasoning is applied.
+
+**Security-aware ingestion · resource limits · deterministic findings · typed APIs · provider isolation · failure-mode testing**
+
+→ [Repository](https://github.com/lokesh8286235/pet-engineering-intelligence)
+
+---
+
+## 04 — AURA
+
+**Architecture intelligence from source code.**
+
+Reconstructs architectural structure from imports, dependencies, tests, configuration, and documentation.
+
+**Dependency analysis · architecture signals · explainable findings · bounded ingestion · FastAPI · Next.js**
+
+→ [Repository](https://github.com/lokesh8286235/aura-engineering-intelligence)
+
+---
+
+# HOW I ENGINEER
 
 ```text
-Define the failure
+Define failure
       ↓
-Establish a measurable baseline
+Establish baseline
       ↓
-Instrument the system
+Instrument
       ↓
-Choose the smallest effective mechanism
+Build mechanism
       ↓
-Test adversarial cases
+Test failure modes
       ↓
-Measure the result
+Measure
       ↓
 Ship with evidence
 ```
 
-**I prefer deterministic systems where possible, explicit failure modes, typed interfaces, reproducible evaluation, and AI only where it creates leverage.**
+**I don't start with AI. I start with the failure mode.**
+
+Then I use the smallest mechanism that produces measurable improvement.
 
 ---
 
-## Technical Focus
+# CORE
 
-**AI / ML**  
-RAG · Retrieval · LLM Evaluation · Agents · Embeddings · PyTorch · ONNX · Graph Compilation · Quantization
+**Production AI**  
+RAG · Retrieval · LLMs · Evaluation · Agents
+
+**ML Systems**  
+PyTorch · ONNX · Graph Compilation · Quantization · C++
 
 **Systems**  
-Python · C++ · Java · FastAPI · Spring Boot · PostgreSQL · Kafka · Concurrency · Distributed Systems
+Python · Java · FastAPI · PostgreSQL · Kafka
 
 **Infrastructure**  
-AWS · Docker · Kubernetes · Terraform · CI/CD · Prometheus
-
-**Frontend**  
-React · TypeScript · Next.js
+AWS · Kubernetes · Docker · CI/CD
 
 ---
 
-## Education
+# EDUCATION
 
-**M.S. Computer Science — Villanova University** · December 2025  
+**M.S. Computer Science — Villanova University**  
 **B.E. Computer Science — Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology**
 
-**Certification:** Salesforce Certified Administrator (ADM-201)
+**Salesforce Certified Administrator (ADM-201)**
 
 ---
 

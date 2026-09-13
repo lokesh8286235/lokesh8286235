@@ -1,10 +1,10 @@
 # Naga Lokesh Sai Alla
 
-## AI Engineer — ML Systems & Production Infrastructure
+## AI Engineer — ML Systems & Production AI
 
-I build AI systems where **correctness, latency, scale, and reliability** matter.
+I build AI systems where **retrieval quality, latency, scale, and reliability** matter.
 
-My work sits at the intersection of:
+My strongest work is at the intersection of:
 
 - **RAG, retrieval & LLM evaluation**
 - **ML inference & performance engineering**
@@ -17,17 +17,25 @@ My work sits at the intersection of:
 
 ## Engineering Evidence
 
-### 500K+ images → 40% higher throughput → 35% lower latency
+### ML inference
 
-Built and optimized an ML inference pipeline using graph transformations, operator fusion, quantization, profiling, and hardware-aware optimization.
+**500K+ images → 40% higher throughput → 35% lower latency**
 
-### 10K+ documents → 1,000+ queries/day → 78% → 91% accuracy
+Graph transformations, operator fusion, quantization, profiling, and hardware-aware optimization.
 
-Built a production RAG pipeline with retrieval evaluation and observability; retrieval precision improved **72% → 89%**.
+### Production RAG
 
-### C++ inference → 3.2× throughput → 35% fewer L3 cache misses
+**10K+ documents → 1,000+ queries/day → 78% → 91% accuracy**
 
-Applied multithreading, profiling, and cache-aware optimization while maintaining **99.9% availability**.
+Retrieval evaluation and observability; retrieval precision improved **72% → 89%**.
+
+### C++ systems
+
+**3.2× throughput → 35% fewer L3 cache misses → 99.9% availability**
+
+Multithreading, profiling, and cache-aware optimization.
+
+> Professional engineering results above are presented as evidence of prior work. Repositories below contain independently inspectable implementations and evaluations.
 
 ---
 
@@ -35,33 +43,63 @@ Applied multithreading, profiling, and cache-aware optimization while maintainin
 
 ### 01 · LinkedIn Optimizer
 
-**Evidence-driven career intelligence for engineers.**
+**AI evaluation + trust-constrained career intelligence.**
 
-Deterministic profile analysis, calibrated scoring, role alignment, anti-gaming controls, and truth-constrained rewriting.
+A deterministic scoring and rewriting system that treats profile optimization as an evidence problem: calibrated signals, anti-gaming tests, role alignment, claim preservation, and explicit missing-evidence slots.
 
-**Built:** Python · typed contracts · evaluation fixtures · CLI · API · regression tests
+**Proof:** deterministic baseline · regression fixtures · adversarial calibration · CLI · API · tests
 
 → [Repository](https://github.com/lokesh8286235/Lokesh)
 
 ### 02 · PET
 
-**Repository intelligence for engineering teams.**
+**Safe repository-analysis infrastructure.**
 
-Analyzes software repositories and turns source evidence into engineering-health signals across maintainability, testing, documentation, reliability, and security.
+A bounded analysis layer for extracting engineering signals from source trees while handling resource limits, binary/invalid content, sensitive files, symlinks, and provider isolation.
 
-**Built:** Python · FastAPI · Pydantic · Next.js · PostgreSQL/pgvector · Docker
+**Proof:** implemented safety boundaries · typed API · deterministic findings · failure-mode testing · Docker
 
 → [Repository](https://github.com/lokesh8286235/pet-engineering-intelligence)
 
 ### 03 · AURA
 
-**Architecture and engineering intelligence from source code.**
+**Architecture intelligence from repository structure.**
 
-Transforms a repository into an explainable model of architecture, dependencies, and engineering health through bounded ingestion and deterministic analysis.
+Reconstructs architecture and engineering-health signals from languages, imports, dependencies, tests, documentation, and configuration—with evidence attached to findings.
 
-**Built:** FastAPI · Python · Next.js · TypeScript · dependency analysis · typed APIs
+**Proof:** multi-language inventory · dependency extraction · explainable dimensions · bounded ingestion · typed API
 
 → [Repository](https://github.com/lokesh8286235/aura-engineering-intelligence)
+
+### 04 · Enterprise RAG Automation Platform
+
+**Production-oriented retrieval pipeline.**
+
+RAG infrastructure using Python, LangChain, Claude, FastAPI, PostgreSQL/pgvector, AWS, and Kubernetes.
+
+→ [Repository](https://github.com/lokesh8286235/enterprise-rag-automation-platform)
+
+---
+
+## How I Build
+
+```text
+Define the failure
+      ↓
+Establish a measurable baseline
+      ↓
+Instrument the system
+      ↓
+Choose the smallest effective mechanism
+      ↓
+Test adversarial cases
+      ↓
+Measure the result
+      ↓
+Ship with evidence
+```
+
+**I prefer deterministic systems where possible, explicit failure modes, typed interfaces, reproducible evaluation, and AI only where it creates leverage.**
 
 ---
 
@@ -78,30 +116,6 @@ AWS · Docker · Kubernetes · Terraform · CI/CD · Prometheus
 
 **Frontend**  
 React · TypeScript · Next.js
-
----
-
-## Engineering Philosophy
-
-```text
-Define the problem
-      ↓
-Establish a measurable baseline
-      ↓
-Instrument the failure
-      ↓
-Optimize the bottleneck
-      ↓
-Evaluate against reality
-      ↓
-Ship with evidence
-```
-
-> **Measure first. Optimize second.**
->
-> **Use AI where it creates leverage—not because it is available.**
-
-I care about systems that can be **read, run, tested, measured, and improved**.
 
 ---
 
